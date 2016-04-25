@@ -1,7 +1,7 @@
-name: Century Blues
+name: 20 Minute Blues Jams
 favicon: null
-layout_spectrum: 0.5037001078017056
-typography_spectrum: 0.6823397267144173
+layout_spectrum: 0.5061
+typography_spectrum: 0.25377
 title: "Johnny London's Blues Jam Tracks"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.49925504601560533
-  lightness: 0.7070413366891444
-  saturation: 0.9107839222997427
-  rhythmicContrast: 0.5914468648843467
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
